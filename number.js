@@ -1,3 +1,18 @@
+button.addEventListener()
+document.addEventListener('click', function () {
+    const divs = ['first', 'second', 'third', 'fourth'];
+    for (let i = 0; i > 4; i++);
+    const numberFact = fetch('http://numbersapi.com/13/trivia?json')
+        .then(function (response) {
+            return response.json();
+        })
+        .then(function (data) {
+            document.getElementById(divs[i]).innerText = data.text;
+        })
+});
+
+
+
 // fetch("http://numbersapi.com/47")
 //     .then((response) => {
 //         if (response.ok) {
