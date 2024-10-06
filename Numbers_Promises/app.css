@@ -1,0 +1,48 @@
+/* --bright-pink-crayola: #ef476fff;
+--sunglow: #ffd166ff;
+--emerald: #06d6a0ff;
+--blue-ncs: #118ab2ff;
+--midnight-green: #073b4cff; 
+--ultra-violet: #52489cff; */
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffd166ff;
+    /* sunglow */
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #52489C;
+    /* ultra-violet */
+    font-size: 2.5em;
+}
+
+#getFact {
+    background-color: #ef476fff;
+    /* bright-pink-crayola */
+    color: #073b4cff;
+    /* midnight-green */
+    border-radius: 8px;
+}
+
+#getFacts {
+    background-color: #118ab2ff;
+    /* blue-ncs */
+    color: #073b4cff;
+    /* midnight-green */
+    border-radius: 8px;
+
+}
+
+#getThirteenFacts {
+    background-color: #06d6a0ff;
+    /* emerald */
+    color: #073b4cff;
+    /* midnight-green */
+    border-radius: 8px;
+
+}
