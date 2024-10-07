@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    padding: 10px;
+    background-color: #72727b;
+}
+
+#cardContainer img {
+    width: 150px;
+    margin-top: 20px;
+}
+
+#noCards {
+    color: red;
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+
+button {
+    background-color: #06d6a0;
+    color: white;
+    border: 1px solid black;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    border-radius: 8px;
+}
